@@ -8,10 +8,7 @@
 </head>
 <body>
 test1 수정ㅁㄴㅇㄻㄴㅇㄻㄴㅇㄻㄴㅇㄹ
-<<<<<<< HEAD
 iououiouiouoiuuoi
-=======
     gitupdate
->>>>>>> refs/remotes/choose_remote_name/master
 </body>
 </html>
